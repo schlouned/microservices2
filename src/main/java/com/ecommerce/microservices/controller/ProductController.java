@@ -87,6 +87,6 @@ public class ProductController {
        dao.save(product);
     }
 
-    //essai denis git 02.09.2021 19h43
+    //essai denis git 02.09.2021 19h43 branche sprint 1
 
 }
